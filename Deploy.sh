@@ -1,2 +1,2 @@
 this file contains 
-deployment logich hello
+deployment logic
